@@ -1,0 +1,100 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+body
+{
+}
+.topnav {
+    width: 100%;
+    height:26px;
+    background-color:#f2f2f2;
+}
+.topnav1{
+    margin:0 auto;
+    width:1190px;
+    height:26px;
+}
+.topnav1 a{
+    text-decoration:none;
+    font-size:12px;
+    color:#6c6c6c;
+}
+.topnav1 span{
+    color:#aaa;
+    font-size:12px;
+}
+.topnav1 ul{
+    list-style:none;
+    width:560px;
+    float:right;
+}
+.topnav1 ul li{
+    float:left;
+    height:25px;
+    margin-right:20px;
+}
+.headernav{
+    width:100%;
+    height:200px;
+}
+.headernav1{
+    width:1190px;
+    margin:0 auto;
+    position:relative;
+}
+.feizhulogo{
+    width:162px;
+    height:64px;
+    float:left;
+}
+.feizhulogo img{
+    height:65px;
+    width:110px;
+}
+.feizhulogo a{
+    height:62px;
+    width:110px;
+    display:inline-block;
+    text-decoration:none;
+    position:absolute;
+    top:0;
+    left:0;
+}
+.slogo{
+    width:260px;
+    height:65px;
+    float:left;
+}
+.slogo a{
+    color:#333;
+    font-size:12px;
+    font-weight:700;
+    text-decoration:none;
+    position:relative;
+}
+.shopinfo{
+    height:65px;
+    width:200px;
+}
+.content{
+    width:1190px;
+    height:150px;
+    text-align:center;
+}
+.content ul{
+    list-style:none;
+    margin-left:150px;
+} 
+.content ul li{
+    float:left;
+    font-size:12px;
+    color:#333;
+}
+.banner{
+    background:url(../img/chengpai/banner.jpg) no-repeat;
+    background-size:contain;
+    width:100%;
+    height:1010px;  
+    margin-top:20px;
+}
